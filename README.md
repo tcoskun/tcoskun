@@ -1,6 +1,6 @@
 ### Hey Welcome! 👋
 
-- 🔭 I’m currently working on **Idea Technology**
+- 🔭 I’m currently working on **Matriks Data**
 - 🌱 I’m currently learning **Flutter**
 - 👯 I’m looking to collaborate on **Vue.Js**
 - 💬 Ask me about **C#**
